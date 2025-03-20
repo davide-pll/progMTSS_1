@@ -2,7 +2,7 @@
 2101095
 
 ## Componenti:
-- [Schede Madri](schede_madri.md)
-- [Processori](processori.md)
+- [Schede Madri](componenti/schede_madri.md)
+- [Processori](componenti/processori.md)
 
 Elettronica Padovana
