@@ -1,0 +1,6 @@
+2110993
+2101095
+
+Schede Madri:
+- ASUS ROG
+- MSI B450
